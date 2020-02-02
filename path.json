@@ -1,0 +1,19 @@
+{
+	"path":[
+		{
+			"source":"F:/test/s1",
+			"target":"F:/test/t1",
+			"comment":"SYNCHRONIZE TARGET PATH TO SOURCE PATH"
+		},
+		{
+			"source":"F:/test/s2",
+			"target":"F:/test/t2",
+			"comment":"SYNCHRONIZE TARGET PATH TO SOURCE PATH"
+		},
+		{
+			"source":"F:/test/s3",
+			"target":"F:/test/t3",
+			"comment":"SYNCHRONIZE TARGET PATH TO SOURCE PATH"
+		}
+	]
+}
